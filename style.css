@@ -1,0 +1,59 @@
+a{
+    text-decoration: none;
+}
+ul{
+    background-color: lightcyan;
+}
+li{
+    color: darkgreen;
+    list-style: none;
+}
+button{
+    color: red;
+    background-color: bisque;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.contact{
+    color: darkblue
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+.zeuspc{
+    color: darkred;
+}
+.mogesalmebit{
+    color: lightcoral;
+}
+.shopphoto{
+    border-radius: 10px;
+    width: 1000px;
+    height: 600px
+}
+.gaming{
+    color: darkgreen;
+    background-color: lightgray;
+}
+.gamingpcs{
+    width: 1500px;
+    height: 550px;
+}
+.klaviatura{
+    color: blue;
+}
+.laptops{
+    color: darkviolet;
+}
+.mouse{
+    color: darkcyan;
+}
+.mousephoto{
+    border-radius: 15px;
+    width: 1400px;
+    height: 650px
+}
+.monitori{
+    color: darkred;
+}
